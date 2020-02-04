@@ -1,9 +1,14 @@
 # youtube-playlist-downloader
 this is simple youtube playlist downloader made with help of youtube-dl 
 
-Run the main file 
+Before running the file 
+
+Install youtube-dl 
+
+sudo apt-get install python3-pip 
+pip install youtube-dl
+
+Run the file 
 ./ypd.sh
 
-
-
-just add some features if you can 
+ADD SOME FEATURE IF YOU LOVE YOUTUBE 
