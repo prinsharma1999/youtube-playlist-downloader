@@ -5,10 +5,10 @@ Before running the file
 
 Install youtube-dl 
 
-sudo apt-get install python3-pip 
-pip install youtube-dl
+# sudo apt-get install python3-pip 
+# pip install youtube-dl
 
 Run the file 
-./ypd.sh
+# ./ypd.sh
 
 ADD SOME FEATURE IF YOU LOVE YOUTUBE 
