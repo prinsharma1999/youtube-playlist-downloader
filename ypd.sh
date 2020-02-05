@@ -11,6 +11,9 @@ read -p "$pkg is not installed. Answer Y/N if want installation_ " request
 if  [ $request == "Y" ]
 then
 apt-get install $pkg
+else [ $request == "N" ]
+    echo "sorry , bye"
+    exit
 fi
 fi
 #to download video using youtube-dl
